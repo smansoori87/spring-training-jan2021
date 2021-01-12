@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Suhail
+Build-Jdk: 11.0.9
+Implementation-Title: 30-jdbc-boot-solution
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.pivotal.education.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/30-jdbc-boot-solution
+Created-By: Maven Integration for Eclipse
+

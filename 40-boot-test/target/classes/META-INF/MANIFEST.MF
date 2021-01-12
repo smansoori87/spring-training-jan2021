@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Suhail
+Build-Jdk: 11.0.9
+Implementation-Title: 40-boot-test
+Implementation-Version: 5.0.c.RELEASE
+Implementation-Vendor-Id: io.pivotal.education.core-spring
+Implementation-Vendor: Pivotal Education
+Implementation-URL: https://spring.io/projects/spring-boot/parentProject
+ /40-boot-test
+Main-Class: accounts.BootTestApplication
+Created-By: Maven Integration for Eclipse
+

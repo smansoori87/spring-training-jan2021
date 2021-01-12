@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Suhail
+Build-Jdk: 11.0.9
+Implementation-Title: 10-spring-intro
+Implementation-Version: 5.0.c.RELEASE
+Implementation-Vendor-Id: io.pivotal.education.core-spring
+Implementation-Vendor: Pivotal Education
+Implementation-URL: https://spring.io/projects/spring-boot/parentProject
+ /10-spring-intro
+Created-By: Maven Integration for Eclipse
+
